@@ -8,8 +8,8 @@
 #include <vector>
 #include <sstream>
 
-#define TEMP_FILENAME ".\\temp\\tempfile.temp"
-#define GZIP_EXE "gzip.exe"
+/*#define TEMP_FILENAME ".\\temp\\tempfile.temp"
+#define GZIP_EXE "gzip.exe"*/
 
 #define TEXT_FILE 1
 #define BIN_FILE 2
